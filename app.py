@@ -16,6 +16,3 @@ def form_submit():
 
 if __name__ == '__main__':
     app.run()
-
-
-#{{ url_for('static', filename='css/style.css') }}
